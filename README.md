@@ -27,7 +27,7 @@ A compassionate AI chatbot designed to provide mental health support, resources,
 
 ## Demo
 
-[Live Demo](#) (Add your deployment link here)
+[Live Demo](#) 
 
 
 ![chatbot](https://github.com/user-attachments/assets/e59572ee-5429-4296-ad32-56aaabdb5712)
